@@ -11,7 +11,7 @@
     "@angular/animations": "file:../../dist/packages-dist/animations",
     "@angular/common": "file:../../dist/packages-dist/common",
     "@angular/compiler": "file:../../dist/packages-dist/compiler",
-    "@angular/compiler-cli": "file:../../dist/packages-dist/compiler-cli",
+    "@angular/compiler-cli": "13.1.0",
     "@angular/core": "file:../../dist/packages-dist/core",
     "@angular/platform-browser": "file:../../dist/packages-dist/platform-browser",
     "@angular/platform-browser-dynamic": "file:../../dist/packages-dist/platform-browser-dynamic",
@@ -30,7 +30,7 @@
     "concurrently": "3.1.0",
     "protractor": "file:../../node_modules/protractor",
     "raw-loader": "^4.0.2",
-    "webpack": "^5.53.0",
+    "webpack": "^5.76.0",
     "webpack-cli": "^4.8.0"
   },
   "scripts": {
