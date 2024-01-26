@@ -12,8 +12,10 @@
   dependencies:
     tslib "^2.3.0"
 
-"@angular/compiler-cli@file:../../dist/packages-dist/compiler-cli":
-  version "13.1.0-next.0"
+"@angular/compiler-cli@13.1.0":
+  version "13.1.0"
+  resolved "https://registry.yarnpkg.com/@angular/compiler-cli/-/compiler-cli-13.1.0.tgz#9ac83a67d00c4135be0ef431dd3a9d2c4289686a"
+  integrity sha512-AUfRF3+hqy2M1TFvi70OiC13Ew9IzzTAbZppGF+N7f5ZbhyuZyGNy/gs3BxlZC0Up5ZQo7GcMHwPxovLNvgFMA==
   dependencies:
     "@babel/core" "^7.8.6"
     canonical-path "1.0.0"
@@ -1058,9 +1060,9 @@ find-up@^4.1.0:
     path-exists "^4.0.0"
 
 follow-redirects@^1.0.0, follow-redirects@^1.14.0:
-  version "1.14.5"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.5.tgz#f09a5848981d3c772b5392309778523f8d85c381"
-  integrity sha512-wtphSXy7d4/OR+MvIFbCVBDzZ5520qV8XfPklSN5QtxuMUJZ+b0Wnst1e1lCDocfzuCkHqj8k0FpZqO+UIaKNA==
+  version "1.15.5"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.15.5.tgz#54d4d6d062c0fa7d9d17feb008461550e3ba8020"
+  integrity sha512-vSFWUON1B+yAw1VN4xMfxgn5fTUiaOzAJCKBwIIgT/+7CuGy9+r+5gITvP62j3RmaD5Ph65UaERdOSRGUzZtgw==
 
 forever-agent@~0.6.1:
   version "0.6.1"
