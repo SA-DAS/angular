@@ -205,7 +205,7 @@
     "multimatch": "^6.0.0",
     "prettier": "^2.5.1",
     "sauce-connect": "https://saucelabs.com/downloads/sc-4.7.1-linux.tar.gz",
-    "semver": "^7.5.2",
+    "semver": "^7.5.3",
     "send": "^0.17.1",
     "ts-node": "^10.0.0",
     "tsec": "0.2.1",
